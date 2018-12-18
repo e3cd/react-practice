@@ -1,0 +1,4 @@
+/* .app .bluefont only references bluefont for app */
+.blueFont {
+  color: blue;
+}
