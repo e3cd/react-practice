@@ -22,6 +22,7 @@ const app = () => {
           time="All the time"
           place="Queen Margharitas"
         />
+
         <Food
           food="Quesadillas"
           image="img/quesadilla.jpeg"

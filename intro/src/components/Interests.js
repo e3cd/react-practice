@@ -1,6 +1,6 @@
 import React from "react";
 
-const Interests = props => {
+const Interests = () => {
   const data = [
     {
       title: "Pop",
